@@ -1,110 +1,64 @@
-{
-    "contacts": [
-        {
-                "id": "c200",
-                "name": "Burger",
-                "email": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdTo-kErsPvUvJ67nfx35VKi8m6aUtHNrTyA&usqp=CAU",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "20$",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c201",
-               "name": "Burger",
-               "email": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdTo-kErsPvUvJ67nfx35VKi8m6aUtHNrTyA&usqp=CAU",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c202",
-                "name": "Leonardo Dicaprio",
-                "email": "leonardo_dicaprio@gmail.com",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000"
-                  
-                }
-        },
-        {
-                "id": "c203",
-                "name": "John Wayne",
-                "email": "john_wayne@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c204",
-                "name": "Angelina Jolie",
-                "email": "angelina_jolie@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "female",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c205",
-                "name": "Dido",
-                "email": "dido@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "female",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c206",
-                "name": "Adele",
-                "email": "adele@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "female",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c2011",
-                "name": "Kate Winslet",
-                "email": "kate_winslet@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "female",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        },
-        {
-                "id": "c2012",
-                "name": "Eminem",
-                "email": "eminem@gmail.com",
-                "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "phone": {
-                    "mobile": "+91 0000000000",
-                    "home": "00 000000",
-                    "office": "00 000000"
-                }
-        }
-    ]
+{ // JSON Object
+"worldpopulation": // JSON Array Name
+	[ // JSON Array
+		 { // JSON Object
+		 "rank":1,"country":"China",
+		 "population":"1,354,040,000",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/china.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":2,"country":"India",
+		 "population":"1,210,193,422",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/india.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":3,"country":"United States",
+		 "population":"315,761,000",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/unitedstates.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":4,"country":"Indonesia",
+		 "population":"237,641,326",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/indonesia.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":5,"country":"Brazil",
+		 "population":"193,946,886",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/brazil.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":6,"country":"Pakistan",
+		 "population":"182,912,000",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/pakistan.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":7,"country":"Nigeria",
+		 "population":"170,901,000",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/nigeria.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":8,"country":"Bangladesh",
+		 "population":"152,518,015",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/bangladesh.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":9,"country":"Russia",
+		 "population":"143,369,806",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/russia.png"
+		 }, 
+
+		 { // JSON Object
+		 "rank":10,"country":"Japan",
+		 "population":"127,360,000",
+		 "flag":"https://www.androidbegin.com/tutorial/flag/japan.png"
+		 } 
+	] // JSON Array
 }
